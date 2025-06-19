@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GoodTube (edited)
 // @namespace    http://tampermonkey.net/
-// @version      3.001
+// @version      3.002
 // @description  Removes 100% of Youtube ads.
 // @author       GoodTube
 // @updateURL    https://github.com/keirond/goodtube/raw/refs/heads/main/goodtube.user.js
